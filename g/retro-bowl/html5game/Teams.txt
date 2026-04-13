@@ -1,14 +1,14 @@
 ﻿uid	name	conference	division	colhelmet	colshirt	colpants	coltertiary	tla	offense	defense	wins	losses	ties	roof	rainfall	snowfall	helmet
-0	Buffalo	0	0	$ffffff	$0202d9	$ffffff	$ba0000	BUF	10	10	0	0	0	0	40	89	0
-1	Miami	0	0	$ffffff	$008E97	$ffffff	$008E97	MIA	9	5	0	0	0	0	59	0	0
-2	New England	0	0	$B0B7BC	$002244	$002244	$FFFFFF	N.E	5	8	0	0	0	0	49	52	1
-3	New York J	0	0	$125740	$125740	$ffffff	$125740	NYJ	4	8	0	0	0	0	47	25	1
-4	Denver	0	1	$1b1f62	$e66e00	$ffffff	$e66e00	DEN	3	7	0	0	0	0	17	62	0
-5	Kansas City	0	1	$c30214	$dc0015	$ffffff	$dc0015	K.C	10	7	0	0	0	0	40	15	1
-6	Los Angeles C	0	1	$ffffff	$3289f7	$ffffff	$F1D209	LAC	7	6	0	0	0	2	17	0	1
-7	Las Vegas	0	1	$aaaaaa	$000000	$aaaaaa	$000000	L.V	6	2	0	0	0	1	5	0	0
-8	Baltimore	0	2	$161616	$361d7d	$ffffff	$361d7d	BAL	7	8	0	0	0	0	45	19	0
-9	Cincinnati	0	2	$fb4f14	$1a1a1a	$ffffff	$fb4f14	CIN	10	7	0	0	0	0	42	14	0
+0	Skibidi Buffalo	0	0	$ffffff	$0202d9	$ffffff	$ba0000	BUF	10	10	0	0	0	0	40	89	0
+1	67 Miami	0	0	$ffffff	$008E97	$ffffff	$008E97	MIA	9	5	0	0	0	0	59	0	0
+2	Ohio New England	0	0	$B0B7BC	$002244	$002244	$FFFFFF	N.E	5	8	0	0	0	0	49	52	1
+3	Skibidi Fornite New York J	0	0	$125740	$125740	$ffffff	$125740	NYJ	4	8	0	0	0	0	47	25	1
+4	Tung Tung Sahur Denver	0	1	$1b1f62	$e66e00	$ffffff	$e66e00	DEN	3	7	0	0	0	0	17	62	0
+5	Sigma Kansas City	0	1	$c30214	$dc0015	$ffffff	$dc0015	K.C	10	7	0	0	0	0	40	15	1
+6	Tralalao TralalalaLos Angeles C	0	1	$ffffff	$3289f7	$ffffff	$F1D209	LAC	7	6	0	0	0	2	17	0	1
+7	Kai Cenat Las Vegas	0	1	$aaaaaa	$000000	$aaaaaa	$000000	L.V	6	2	0	0	0	1	5	0	0
+8	67 Baltimore	0	2	$161616	$361d7d	$ffffff	$361d7d	BAL	7	8	0	0	0	0	45	19	0
+9	67 kid Cincinnati	0	2	$fb4f14	$1a1a1a	$ffffff	$fb4f14	CIN	10	7	0	0	0	0	42	14	0
 10	Cleveland	0	2	$d44200	$4f3531	$FFFFFF	$d44200	CLE	6	6	0	0	0	0	40	61	0
 11	Pittsburgh	0	2	$000000	$222121	$f8e400	$000000	PIT	6	7	0	0	0	0	38	27	0
 12	Houston	0	3	$101843	$17205b	$ffffff	$17205B	HOU	2	4	0	0	0	2	51	0	1
