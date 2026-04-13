@@ -1,15 +1,15 @@
 ﻿uid	name	conference	division	colhelmet	colshirt	colpants	coltertiary	tla	defense	offense	wins	losses	ties	roof	rainfall	snowfall	helmet	rival	academics	type	state	reputation_int	reputation
-0	Cincinnati	0	0	$000000	$000000	$000000	$ffffff	CIN	7	4	0	0	0	0	42	14	0	-1	0	0	OH	1	0001
-1	E. Carolina	0	0	$592a8a	$592a8a	$ffffff	$fdc82f	E.C	2	3	0	0	0	0	50	0	0	-1	0	0	NC	0	0000
-2	Houston	0	0	$c8102e	$c8102e	$ffffff	$ffffff	HOU	2	5	0	0	0	0	51	0	0	27	0	0	TX	0	0000
-3	Memphis	0	0	$003087	$003087	$ffffff	$ffffff	MEM	5	8	0	0	0	0	46	1	0	-1	0	0	TN	0	0000
-4	Navy	0	1	$c5b783	$00205b	$c5b783	$ffffff	NAV	6	7	0	0	0	0	43	13	0	-1	2	Military	MD	0	0000
-5	Southern M.	0	1	$ffffff	$c8102e	$ffffff	$0033a0	SOM	3	8	0	0	0	0	31	1	0	-1	0	Religious	TX	0	0000
-6	S. Florida	0	1	$cfc493	$006747	$006747	$ffffff	SFL	4	2	0	0	0	0	50	0	0	10	0	0	FL	0	0000
-7	Philadelphia	0	1	$9d2235	$9d2235	$9d2235	$ffffff	PHI	5	3	0	0	0	0	47	15	0	-1	1	0	PA	0	0000
-8	New Orleans	0	2	$ffffff	$006747	$ffffff	$418fde	N.O	5	5	0	0	0	0	50	0	0	-1	2	0	LA	0	0000
-9	Tulsa	0	2	$c5b783	$002d72	$ffffff	$c8102e	TUL	3	3	0	0	0	0	35	1	0	-1	0	Religious	OK	0	0000
-10	C. Florida	0	2	$ba9b37	$303030	$303030	$ffffff	CFL	6	9	0	0	0	0	50	0	0	6	0	0	FL	0	0000
+0	Skibidi 	0	0	$000000	$000000	$000000	$ffffff	CIN	7	4	0	0	0	0	42	14	0	-1	0	0	OH	1	0001
+1	67 	0	0	$592a8a	$592a8a	$ffffff	$fdc82f	E.C	2	3	0	0	0	0	50	0	0	-1	0	0	NC	0	0000
+2	Ohio	0	0	$c8102e	$c8102e	$ffffff	$ffffff	HOU	2	5	0	0	0	0	51	0	0	27	0	0	TX	0	0000
+3	Skibidi Fornite	0	0	$003087	$003087	$ffffff	$ffffff	MEM	5	8	0	0	0	0	46	1	0	-1	0	0	TN	0	0000
+4	Skibidi rizz	0	1	$c5b783	$00205b	$c5b783	$ffffff	NAV	6	7	0	0	0	0	43	13	0	-1	2	Military	MD	0	0000
+5	Tralalo Tralala 0	1	$ffffff	$c8102e	$ffffff	$0033a0	SOM	3	8	0	0	0	0	31	1	0	-1	0	Religious	TX	0	0000
+6	Tung Tung Sahur	0	1	$cfc493	$006747	$006747	$ffffff	SFL	4	2	0	0	0	0	50	0	0	10	0	0	FL	0	0000
+7	Skibidi Toliet	0	1	$9d2235	$9d2235	$9d2235	$ffffff	PHI	5	3	0	0	0	0	47	15	0	-1	1	0	PA	0	0000
+8	Skibidi Sigma 0	2	$ffffff	$006747	$ffffff	$418fde	N.O	5	5	0	0	0	0	50	0	0	-1	2	0	LA	0	0000
+9	Rizz Toliet	0	2	$c5b783	$002d72	$ffffff	$c8102e	TUL	3	3	0	0	0	0	35	1	0	-1	0	Religious	OK	0	0000
+10	Rizzler Island 0	2	$ba9b37	$303030	$303030	$ffffff	CFL	6	9	0	0	0	0	50	0	0	6	0	0	FL	0	0000
 11	Waco	0	2	$003015	$003015	$003015	$fecb00	WAC	7	6	0	0	0	0	43	0	0	17	0	Religious	TX	1	0001
 12	Iowa S.	0	3	$c8102e	$c8102e	$c8102e	$f1be48	IAS	5	5	0	0	0	0	36	29	0	-1	0	0	IA	0	0010
 13	Kansas	0	3	$0051ba	$0051ba	$0051ba	$e8000d	KS.	2	2	0	0	0	0	36	15	0	14	0	0	KS	0	0000
